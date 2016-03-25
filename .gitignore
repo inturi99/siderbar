@@ -3,6 +3,9 @@ pom.xml.asc
 *jar
 /lib/
 /classes/
+/resources/public/js/out/
+/resources/public/js/app.js
+/resources/public/index.html
 /target/
 /checkouts/
 .lein-deps-sum
